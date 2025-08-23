@@ -135,3 +135,23 @@ body {
     text-decoration: none;
     color: #373799;
 }
+
+/* register */
+#register-container {
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    width: 350px;
+    margin-top: 10px;
+    padding: 25px;
+}
+
+#register-container p {
+    font-size: 14px;
+    color: #262626;
+}
+
+#register-container a {
+    color: #4195f6;
+    font-weight: bold;
+    text-decoration: none;
+}
